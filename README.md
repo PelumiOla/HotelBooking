@@ -8,7 +8,7 @@
   
 4. Access the API on Postman at:
   
-  http://localhost:8080/api/reservations
+  http://localhost:8080/
 
 ## API Endpoints
 
